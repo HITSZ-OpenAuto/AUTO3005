@@ -1,3 +1,4 @@
 category: 限选
+module: 机器人与智能系统
 semester: 第三学年春季
 name: 机器人学导论
