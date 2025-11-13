@@ -1,0 +1,201 @@
+ID: "AUTO3005"
+SimilarID: []
+Name: "机器人学导论"
+CourseProperty:
+  Major:
+    - Year: "2019_2020"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO3005"
+  CourseName: "机器人学导论"
+  Credit: "2.0"
+  CourseHour: "36.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "15"
+    - Name: "实验"
+      Percentage: "15"
+    - Name: "课程设计"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: "理论学时"
+      Hour: "28"
+    - Name: "实验"
+      Hour: "8"
+
+  Major:
+    - Year: "2020_2021"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO3005"
+  CourseName: "机器人学导论"
+  Credit: "2.0"
+  CourseHour: "36.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "15"
+    - Name: "实验"
+      Percentage: "15"
+    - Name: "课程设计"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: "理论学时"
+      Hour: "28"
+    - Name: "实验"
+      Hour: "8"
+
+  Major:
+    - Year: "2021_2022"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO3005"
+  CourseName: "机器人学导论"
+  Credit: "2.0"
+  CourseHour: "36.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "15"
+    - Name: "实验"
+      Percentage: "15"
+    - Name: "课程设计"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: "理论学时"
+      Hour: "28"
+    - Name: "实验"
+      Hour: "8"
+
+  Major:
+    - Year: "2022_2023"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO3005"
+  CourseName: "机器人学导论"
+  Credit: "2.0"
+  CourseHour: "36.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "15"
+    - Name: "实验"
+      Percentage: "15"
+    - Name: "课程设计"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: "理论学时"
+      Hour: "28"
+    - Name: "实验"
+      Hour: "8"
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "自动化（第二学士学位）", "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO3005"
+  CourseName: "机器人学导论"
+  Credit: "2.0"
+  CourseHour: "36.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "15"
+    - Name: "实验"
+      Percentage: "15"
+    - Name: "课程设计"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: "理论学时"
+      Hour: "28"
+    - Name: "实验"
+      Hour: "8"
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO3005"
+  CourseName: "机器人学导论"
+  Credit: "2.0"
+  CourseHour: "36.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "15"
+    - Name: "实验"
+      Percentage: "15"
+    - Name: "课程设计"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: "理论学时"
+      Hour: "28"
+    - Name: "实验"
+      Hour: "8"
