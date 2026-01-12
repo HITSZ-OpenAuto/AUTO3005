@@ -1,0 +1,154 @@
+# 课程代码未在原始文件中提供。
+course_name = "机器人学导论"
+course_code = ""
+
+notices = ""
+
+[[lecturers]]
+name = "楼云江"
+  [[lecturers.reviews]]
+  content = """
+会细致推导公式，但有时有现场备课的感觉。
+助教人很好，完不成作业可以和助教沟通，态度好的话基本不用担心扣分。但也有同学反映给分较低。最后一节课是作业讲解，选课的同学认真听。
+PPT 完全截图自港科大李泽湘教授（建议看原版 PDF 课件，比较清晰，在本仓库中有），其中有较多 bug，不确定时是否出错时可以参考教材（上面列出的那本主教材），教材中基本上都是正确的。也欢迎制作课件勘误。
+比较重视课程设计，课程设计做得好对于总成绩的帮助很大。
+"""
+  [lecturers.reviews.author]
+  name = ""
+  link = ""
+  date = ""
+
+[[lecturers]]
+name = "杜惠"
+  [[lecturers.reviews]]
+  content = "实验教师。老师人很好，课上做不完不用紧张，重在分析态度认真并且能实现结果。"
+  [lecturers.reviews.author]
+  name = ""
+  link = ""
+  date = ""
+
+[[textbooks]]
+title = "A Mathematical Introduction to Robotic Manipulation"
+book_author = "Richard M. Murray, Zexiang Li, S. Shankar Sastry"
+publisher = "CRC Press"
+edition = "1st Edition"
+type = "textbook"
+[textbooks.author]
+name = ""
+link = ""
+date = ""
+
+[[textbooks]]
+title = "Introduction to Robotics, Mechanics and Control"
+book_author = "John J. Craig"
+publisher = "Addison Wesley Longman"
+edition = "3rd edition"
+type = "reference"
+[textbooks.author]
+name = ""
+link = ""
+date = ""
+
+[[textbooks]]
+title = "Modern Robotics: Mechanics, Planning, and Control"
+book_author = "Lynch, Kevin M. and Frank Chongwoo Park"
+publisher = ""
+edition = ""
+type = "reference"
+[textbooks.author]
+name = ""
+link = ""
+date = ""
+
+[[textbooks]]
+title = "机器人学：建模、控制与视觉"
+book_author = "熊有伦主编"
+publisher = "华中科技大学出版社"
+edition = ""
+type = "reference"
+[textbooks.author]
+name = ""
+link = ""
+date = ""
+
+[[online_resources]]
+title = "UC Berkeley 的课程主页"
+url = "https://ucb-ee106.github.io/eecs106a-fa23site/"
+description = "注意其中的 discussion 模块，有助教讲解一些疑难问题的板书。"
+[online_resources.author]
+name = ""
+link = ""
+date = ""
+
+[[online_resources]]
+title = "台大林沛群教授的机器人学网课视频"
+url = "https://www.bilibili.com/video/BV1v4411H7ez/"
+description = """
+其中关于旋转矩阵的理解讲解很到位，大家可以参考。不过和本课程（基于矩阵指数的）知识体系不太相符（包括正逆运动学的解法都不太一样），所以到课程后期的帮助可能不那么大了。
+"""
+[online_resources.author]
+name = ""
+link = ""
+date = ""
+
+[[course]]
+content = """
+课程核心内容包括刚体运动描述（齐次变换、指数坐标）、机器人运动学（正向与逆向，采用指数积解法）、雅可比矩阵、轨迹规划、动力学与控制基础。
+"""
+[course.author]
+name = ""
+link = ""
+date = ""
+
+[[exam]]
+content = """
+可携带一张 A4 纸，所以不用背诵所有公式。
+计算量较大，对于某些算不出来的矩阵指数，可以先列式，有时间再计算。
+"""
+[exam.author]
+name = ""
+link = ""
+date = ""
+
+[[advice]]
+content = "善用网络资源，stacksoverflow、stacksexchange上有一些很好的回答，可以帮助大家理解。"
+[advice.author]
+name = ""
+link = ""
+date = ""
+
+[[schedule]]
+content = """
+理论课主题：
+1. 引言；机器人历史
+2. 机器人机构
+3. 刚体的旋转和平移运动描述
+4. 三维空间的刚体运动
+5. 刚体的速度描述
+6. 机器人操作臂的前向运动学
+7. 机器人操作臂的逆向运动学
+8. 机器人的微分运动与雅克比
+9. 机器人的轨迹规划
+10. 机器人动力学 (了解)
+11. 机器人控制基础 (了解)
+12. 复习与作业讲解
+
+实验内容：
+1. 工业机器人的示教编程与焊接实验
+2. SCARA/并联机器人/六轴机器人的运动学实验
+3. 正逆运动学实验
+4. 机器人运动规划与控制
+"""
+[schedule.author]
+name = ""
+link = ""
+date = ""
+
+related_links = []
+
+[[misc]]
+content = "教学大纲中列出的“机器人的DH参数”部分实际并未讲授。"
+[misc.author]
+name = ""
+link = ""
+date = ""
