@@ -1,0 +1,180 @@
+course_name = "机器人学导论"
+repo_type = "normal"
+course_code = "AUTO3005"
+
+description = """
+1. 本课程主要采用基于旋量理论（Product of Exponentials / Matrix Exponential）的数学体系，与传统的 DH 参数法体系不同，参考外部资料时请务必注意区分。
+2. 考核方式（21级）：作业 15% + 实验 15% + 课程设计 20% + 期末考试 50%。
+3. 允许携带一张 A4 纸作为参考资料参加考试。
+"""
+
+[[lecturers]]
+name = "楼云江"
+
+[[lecturers.reviews]]
+content = """
+理论课教师。
+授课风格：会细致推导公式，但有时有现场备课的感觉。
+PPT：完全截图自港科大李泽湘教授的课件（建议看原版 PDF，比较清晰，在本仓库中有），其中有较多 bug，不确定时请参考主教材（Murray 著），教材中基本上都是正确的。
+助教：人很好，完不成作业可以和助教沟通。最后一节课是作业讲解，建议认真听。
+评分：比较重视课程设计，课程设计做得好对于总成绩的帮助很大。
+"""
+
+[[lecturers]]
+name = "杜惠"
+
+[[lecturers.reviews]]
+content = "实验课教师。老师人很好，课上做不完不用紧张，重在分析态度认真并且能实现结果。"
+
+
+[[sections]]
+title = "教材"
+
+[[sections.items]]
+content = """
+- **A Mathematical Introduction to Robotic Manipulation**（Richard M. Murray, Zexiang Li, S. Shankar Sastry / CRC Press / 1st Edition (1994) / textbook）
+- **Introduction to Robotics, Mechanics and Control**（John J. Craig / Addison Wesley Longman / 3rd edition / textbook）
+- **Modern Robotics: Mechanics, Planning, and Control**（Lynch, Kevin M. and Frank Chongwoo Park / 2017 / textbook）
+- **机器人学：建模、控制与视觉**（熊有伦 / 华中科技大学出版社 / 2018 / textbook）
+"""
+
+[[sections]]
+title = "在线资源"
+
+[[sections.items]]
+content = """
+- [UC Berkeley EE106A 课程主页](https://ucb-ee106.github.io/eecs106a-fa23site/)：注意其中的 discussion 模块，有助教讲解一些疑难问题的板书。
+- [台大林沛群教授的机器人学网课视频](https://www.bilibili.com/video/BV1v4411H7ez/)：关于旋转矩阵的理解讲解很到位。但请注意：该课程使用 DH 参数体系，与本课程（基于矩阵指数/旋量）的知识体系不太相符，正逆运动学解法不同，后期帮助可能有限。
+"""
+
+[[sections]]
+title = "课程内容"
+
+[[sections.items]]
+content = """
+**理论课教学内容与要求（标粗为重点）：**
+
+<table border="1">
+<thead>
+<tr>
+<th>序号</th>
+<th>教学内容</th>
+<th>教学要求</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>引言；机器人历史</td>
+<td>了解概况、应用范围、研究方向及设计控制编程。</td>
+</tr>
+<tr>
+<td>2</td>
+<td>机器人机构</td>
+<td>了解操作臂坐标形式、手腕传动、手爪、结构要求及示教编程。</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>刚体的旋转和平移运动描述</strong></td>
+<td>掌握刚体变换定义性质、旋转平移描述。</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>三维空间的刚体运动</strong></td>
+<td>掌握齐次变换法、<strong>指数坐标方法</strong>、螺旋几何解释、其他参数化方法（Euler/Fixed Angles）。</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>刚体的速度描述</strong></td>
+<td>掌握旋转速度、刚体速度、螺旋运动速度及坐标变换。</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>机器人操作臂的前向运动学</strong></td>
+<td>掌握前向运动学问题、<strong>指数积解法</strong>、参数化方法及工作空间。</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>机器人操作臂的逆向运动学</strong></td>
+<td>掌握 <strong>Paden-Kahan 子问题</strong>及求解、利用子问题求解逆运动学。</td>
+</tr>
+<tr>
+<td>8</td>
+<td><strong>机器人的微分运动与雅克比</strong></td>
+<td>掌握末端速度/力分析、<strong>雅克比矩阵</strong>定义性质、奇异性与可操作性。</td>
+</tr>
+<tr>
+<td>9</td>
+<td><strong>机器人的轨迹规划</strong></td>
+<td>掌握关节空间（LFPB、Cubic）和任务空间的轨迹规划方法。</td>
+</tr>
+<tr>
+<td>10</td>
+<td>机器人动力学</td>
+<td>（了解即可，不考试）拉格朗日方程、开链操作臂动力学。</td>
+</tr>
+<tr>
+<td>11</td>
+<td>机器人控制基础</td>
+<td>（了解即可，不考试）Computed torque、PD控制。大四《非线性与自适应控制》会涉及。</td>
+</tr>
+<tr>
+<td>12</td>
+<td>复习与作业讲解</td>
+<td>助教作业讲解、公布课程设计题目。</td>
+</tr>
+</tbody>
+</table>
+
+*注：教学大纲中包含“机器人的 DH 参数”章节，但实际授课通常不讲。*
+"""
+
+[[sections]]
+title = "关于考试"
+
+[[sections.items]]
+content = """
+- **开卷情况**：可携带一张 A4 纸，所以不用背诵所有公式。
+- **题型特点**：计算量较大。
+- **技巧**：对于某些算不出来的矩阵指数，可以先列式，有时间再计算。
+"""
+
+[[sections]]
+title = "关于实验"
+
+[[sections.items]]
+content = """
+**实验安排：**
+
+<table border="1">
+<thead>
+<tr>
+<th>序号</th>
+<th>教学内容</th>
+<th>教学要求</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>工业机器人的示教编程与焊接</td>
+<td>认知商用系统，示教编程完成基本运动及焊接实验。</td>
+</tr>
+<tr>
+<td>2</td>
+<td>SCARA/并联/六轴机器人运动学</td>
+<td>求解并编程完成上述机器人的前向运动学控制。</td>
+</tr>
+<tr>
+<td>3</td>
+<td>正逆运动学实验</td>
+<td>利用 MATLAB 求解六轴机器人逆运动学并仿真，可选实机验证。</td>
+</tr>
+<tr>
+<td>4</td>
+<td>机器人运动规划与控制</td>
+<td>完成基本运动规划仿真，并进行实机实验分析结果。</td>
+</tr>
+</tbody>
+</table>
+"""
