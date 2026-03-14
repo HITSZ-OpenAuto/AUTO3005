@@ -9,24 +9,22 @@ description = """
 4. 考试计算量较大，对于某些算不出来的矩阵指数，可以先列式，有时间再计算。
 """
 
-[[lecturers]]
+[lecturers]
+[[lecturers.items]]
 name = "楼云江"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 会细致推导公式，但有时有现场备课的感觉。
 助教人很好，完不成作业可以和助教沟通，态度好的话基本不用担心扣分。但也有同学反映给分较低。最后一节课是作业讲解，选课的同学认真听。
 PPT 完全截图自港科大李泽湘教授（建议看原版 PDF 课件，比较清晰，在本仓库中有），其中有较多 bug，不确定时是否出错时可以参考教材（上面列出的那本主教材），教材中基本上都是正确的。也欢迎制作课件勘误。
 比较重视课程设计，课程设计做得好对于总成绩的帮助很大。
 """
-
-[[lecturers]]
+[[lecturers.items]]
 name = "杜惠"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "实验课教师。老师人很好，课上做不完不用紧张，重在分析态度认真并且能实现结果。"
-
-
 [[sections]]
 title = "教材与在线资源"
 
