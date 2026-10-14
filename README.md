@@ -1,12 +1,5 @@
 # AUTO3005 - 机器人学导论
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业15%](https://img.shields.io/badge/作业-15%25-wheat)
-![实验15%](https://img.shields.io/badge/实验-15%25-wheat)
-![课程设计20%](https://img.shields.io/badge/课程设计-20%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 1. 本课程主要采用基于旋量理论（Product of Exponentials / Matrix Exponential）的数学体系，与传统的 DH 参数法体系不同，参考外部资料时请务必注意区分。
 2. 考核方式（21级）：作业 15% + 实验 15% + 课程设计 20% + 期末考试 50%。
