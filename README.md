@@ -72,7 +72,7 @@
 ## 学习建议
 <!-- TOML-SECTION: title="学习建议" -->
 
-<!-- TOML-ITEM: id="item-2026春修读体验-1" -->
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 ### 2026 春修读体验
 
