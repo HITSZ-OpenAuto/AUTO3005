@@ -10,9 +10,9 @@
     "hash": "e7e2230b75a10b103f47f7e6e1226b6ef125726d"
   },
   "README.md": {
-    "size": 7065,
-    "time": 1791961161,
-    "hash": "47ccaa9b2f6c89afd92eb1279e15375c18dd7f0d"
+    "size": 7740,
+    "time": 1794788169,
+    "hash": "d7750836ae7ee71cbb69f454d29ca8a7dfd55688"
   },
   "assignments/.gitkeep": {
     "size": 0,
@@ -114,6 +114,41 @@
     "time": 1720097409,
     "hash": "0a516db14d43c7bde348cb766f103feb3a65e84c"
   },
+  "assignments/2026_BCC/hw1.pdf": {
+    "size": 676774,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
+  },
+  "assignments/2026_BCC/hw2.pdf": {
+    "size": 5601126,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
+  },
+  "assignments/2026_BCC/hw3.pdf": {
+    "size": 5767790,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
+  },
+  "assignments/2026_BCC/hw4.pdf": {
+    "size": 12150862,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
+  },
+  "assignments/2026_BCC/hw5.pdf": {
+    "size": 19378108,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
+  },
+  "assignments/2026_BCC/hw6.pdf": {
+    "size": 4708815,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
+  },
+  "assignments/2026_BCC/hw7.pdf": {
+    "size": 611430,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
+  },
   "course_design/2024_assignment 流浪的球（青春版）.pptx": {
     "size": 1485344,
     "time": 1720097409,
@@ -153,6 +188,16 @@
     "size": 789596,
     "time": 1737650232,
     "hash": "a9cf2f484e1acfd1fbd8674579d8ae088a7952b6"
+  },
+  "exams/2026春_BCC_机器人学考试A4纸.pdf": {
+    "size": 888455,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
+  },
+  "exams/2026春_BCC_机器人学考试A4纸_无例题版.pdf": {
+    "size": 751175,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
   },
   "labs/.gitkeep": {
     "size": 0,
@@ -199,6 +244,26 @@
     "time": 1720097409,
     "hash": "0a516db14d43c7bde348cb766f103feb3a65e84c"
   },
+  "labs/2026_BCC/exp1.pdf": {
+    "size": 293428,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
+  },
+  "labs/2026_BCC/exp2.pdf": {
+    "size": 1122791,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
+  },
+  "labs/2026_BCC/exp3.pdf": {
+    "size": 3369158,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
+  },
+  "labs/2026_BCC/exp4.pdf": {
+    "size": 2741761,
+    "time": 1794788151,
+    "hash": "43c40deb952dd86682b4484665ec74a22ed0076f"
+  },
   "notes/.gitkeep": {
     "size": 0,
     "time": 1737650232,
@@ -210,9 +275,9 @@
     "hash": "460939e8949a55113a5d8b14f4248f912dbccb80"
   },
   "readme.toml": {
-    "size": 7004,
-    "time": 1785345867,
-    "hash": "4920f1acbe4b8ec20ad69b65129a61cf3b967794"
+    "size": 7674,
+    "time": 1794788169,
+    "hash": "d7750836ae7ee71cbb69f454d29ca8a7dfd55688"
   },
   "slides/--1--Rev-Robot-History-July-2012[handout].pdf": {
     "size": 7224174,
